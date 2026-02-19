@@ -39,13 +39,6 @@ Atuo tanto no front-end quanto no back-end, aplicando boas práticas, organizaç
 ## 📌 Projetos
 Os projetos que melhor representam minha evolução técnica como desenvolvedor web full stack estão fixados abaixo no meu perfil.
 
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Devezaa7&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Devezaa7&layout=compact&theme=tokyonight)
 
 ---
 
