@@ -1,14 +1,15 @@
-## 👋 Olá, eu sou o Guilhermy
+## 👋 Olá! Eu sou o Guilhermy
 
 🎓 Estudante de Gestão de TI  
-💻 Desenvolvedor Web Full Stack  
+💻 Desenvolvedor Web **Full Stack**  
 🚀 Participante do Programadores do Amanhã  
 
-Sou desenvolvedor web full stack, com experiência no desenvolvimento de aplicações modernas e completaspráticas, organização de código, versionamento com Git e construção de soluções escaláveis seguindo padrões de mercado.
+Sou desenvolvedor web full stack com foco na construção de aplicações completas e modernas.  
+Tenho experiência prática em projetos que envolvem tanto front-end quanto back-end, com atenção às boas práticas de código, organização, responsividade e versionamento com Git/GitHub.
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## 🚀 Tecnologias & Ferramentas
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,17 +36,20 @@ Sou desenvolvedor web full stack, com experiência no desenvolvimento de aplica�
 
 ---
 
-## 📌 Projetos
+## 📌 Meus Projetos
+
 Os projetos que melhor representam minha evolução técnica como desenvolvedor web full stack estão fixados abaixo no meu perfil.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
+
 ![Guilhermy GitHub stats](https://github-readme-stats.vercel.app/api?username=Devezaa7&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devezaa7&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
+
 🔗 LinkedIn: https://www.linkedin.com/in/dev-deveza/  
 📧 Email: guilhermydeveza33@gmail.com
